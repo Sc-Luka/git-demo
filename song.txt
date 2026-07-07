@@ -3,6 +3,4 @@ two line
 tree line
 four line
 
-1 line
-2 line
-
+2 3 4 5 6
